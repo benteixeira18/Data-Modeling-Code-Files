@@ -1,4 +1,4 @@
-# construct a matrix with 3 rows from 1 to 9
+# datacamp: construct a matrix with 3 rows from 1 to 9
 my_matrix <- matrix(1:9, byrow = TRUE, nrow = 3)
 
 # create star wars box office vectors
